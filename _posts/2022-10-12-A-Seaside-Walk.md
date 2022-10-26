@@ -1,7 +1,7 @@
 ---
 title: 'A Seaside Walk'
 date: 2022-10-12 15:40:00
-featured_image: '/images/favicon.png'
+featured_image: '/images/2022-10-12-a-seaside-walk/_DSC6103.jpg'
 excerpt: I wandered along the waterfront, enjoying the zephyr blowing from the sea and the waves glistening under the sunset.
 ---
 
