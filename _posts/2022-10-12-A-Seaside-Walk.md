@@ -15,7 +15,7 @@ This very first blog of my website portrays a seaside walk on the afternoon of O
 
 Among all the ships harboring in the Belcher Bay, the superyacht *[Nord](https://en.wikipedia.org/wiki/Nord_(yacht))* was no doubt the most eye-catching one. Owned by the Russian oligarch Alexey Mordashov, *Nord* travelled to Hong Kong probably to flee from seizure by Western authorities. 
 
-![the Nord](/images/2022-10-12-a-seaside-walk/_DSC6102.jpg)
+![the Nord](/images/2022-10-12-a-seaside-walk/DSC6102.jpg)
 
 <center>the <i>Nord</i></center>
 
