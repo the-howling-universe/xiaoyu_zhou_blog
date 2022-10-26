@@ -1,8 +1,9 @@
 ---
 title: 'A Seaside Walk'
 date: 2022-10-12 15:40:00
-featured_image: '/images/2022-10-12-A-Seaside-Walk/_DSC6103.jpg'
+featured_image: '/_DSC6103.jpg'
 excerpt: I wandered along the waterfront, enjoying the zephyr blowing from the sea and the waves glistening under the sunset.
+typora-root-url: ..\images\2022-10-12-A-Seaside-Walk
 ---
 
 Dear Friend:
@@ -15,7 +16,7 @@ This very first blog of my website portrays a seaside walk on the afternoon of O
 
 Among all the ships harboring in the Belcher Bay, the superyacht *[Nord](https://en.wikipedia.org/wiki/Nord_(yacht))* was no doubt the most eye-catching one. Owned by the Russian oligarch Alexey Mordashov, *Nord* travelled to Hong Kong probably to flee from seizure by Western authorities. 
 
-![the Nord](D:\Programs\Blog\xiaoyu_zhou_blog\images\2022-10-12-A-Seaside-Walk\_DSC6102.jpg)
+![the Nord](/_DSC6102.jpg)
 
 <center>the <i>Nord</i></center>
 
